@@ -18,7 +18,7 @@
                         <label for="label_password">Mot de passe actuel</label>
                     </div>
                 </div>
-            </div>
+            </div> 
             <div class="col-md-6">
                 <div class="form-group">
                     <div class="form-floating mb-3">
